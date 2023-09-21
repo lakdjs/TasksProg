@@ -28,6 +28,5 @@ public class Tiger : Cat
     public override string ToString()
     {
         return $"A tiger with weight: {Weight} fluffiness: {Fluffiness}";
-
     }
 }
